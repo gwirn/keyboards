@@ -11,6 +11,8 @@ Sucessor to the [iridiumfly](https://github.com/gwirn/keyboards/tree/master/hand
     *   Switches: any MX switch
     *   Diodes: 1N4148
     *   Wire: 1mm copper wire or equivalent
+    *   M2 screws
+    *   M2 heat threaded inserts
 
 Make example for this keyboard (after setting up your build environment):
 

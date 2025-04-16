@@ -10,6 +10,8 @@ A 36 key bend keyboard for comfy wrist angles while being small and portable.
     *   Switches: any MX switch
     *   Diodes: 1N4148
     *   Wire: 1mm copper wire or equivalent
+    *   M2 screws
+    *   M2 heat threaded inserts
 
 Make example for this keyboard (after setting up your build environment):
 
