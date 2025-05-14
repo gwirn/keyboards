@@ -11,6 +11,8 @@ A simple ortholinear 47 key keyboard to be 3D printed and hand wired.
     *   Diodes: 1N4148
     *   Wire: 1mm copper wire or equivalent
     *   Khail hot swap sockets (optional)
+    *   M2 screws
+    *   heat threaded inserts
 
 Make example for this keyboard (after setting up your build environment):
 
